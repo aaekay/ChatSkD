@@ -94,7 +94,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Start the Flask Server:**
   - Run the Flask application using the following command:
   ```
-  python ckd_app.py [index_folder]
+  python skd_app.py [index_folder]
   ```
   - Optionally, specify the index folder path as a command-line argument. If not provided, the application will prompt for it.
 
