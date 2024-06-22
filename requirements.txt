@@ -11,3 +11,4 @@ requests==2.30.0
 scipy==1.11.1
 python-dotev
 nktl
+werkzeug==2.2.2
