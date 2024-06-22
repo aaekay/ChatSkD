@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository:**
   - Use the following command to clone the giaCB repository:
   ```
-  git clone https://github.com/aaekayg/ChatSkD
+  git clone https://github.com/aaekay/ChatSkD
   ```
   - Then, change to the repository directory:
   ```
@@ -47,7 +47,7 @@ Before you begin, ensure you have met the following requirements:
   ```
   - Now activate conda:
   ```
-  source ~/bash.rc
+  source ~/.bashrc
   ```
   - Now use the environment file to create envrionment skd
   ```
